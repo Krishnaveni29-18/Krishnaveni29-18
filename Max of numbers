@@ -1,0 +1,23 @@
+- 👋 Hi, I’m @Krishnaveni29-18
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Krishnaveni29-18/Krishnaveni29-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->#include<stdio.h>
+int main(){
+  int a,b,c,d,max;
+  max=a;
+  if(max<b)
+    max=b;
+  if(max<c)
+    max=c;
+  if(max<d)
+    max=d;
+  printf("big=%d", max);
+  }
